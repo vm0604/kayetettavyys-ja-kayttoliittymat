@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<parent>
+    <tilauslomake>
+              <yhteystiedot>
+                <nimi>nimi</nimi>
+                <sposti>sähköposti</sposti>
+                <puh>puhelinnumero</puh>
+              </yhteystiedot>
+              <tilaus>
+                <tuote>Tilattava tuote</tuote>
+                <maara>Määrä</maara>
+                <hinta>Hinta</hinta>
+              </tilaus>
+              <maksu>Maksutapa</maksu>  
+    </tilauslomake>
+</parent>
